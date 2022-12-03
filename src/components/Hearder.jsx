@@ -1,5 +1,5 @@
 
-function Header() {
+function Header(props) {
     return (
         <header>
             <h1>Keeper</h1>
